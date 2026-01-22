@@ -1,6 +1,6 @@
 # Meu nome é **Igor Coelho**
 
-🚀 Aqui você encontra meus experimentos, estudos e evolução na programação com foco em **Back-end**.
+Aqui você encontra meus experimentos, estudos e evolução na programação com foco em **Back-end**.
 
 ---
 
