@@ -18,14 +18,6 @@
 </p>
 
 ---
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorcoelho01&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ## 🌐 Onde me encontrar
 
